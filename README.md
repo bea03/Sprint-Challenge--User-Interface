@@ -41,7 +41,9 @@ Edit this document to include your answers after each question. Make sure to lea
     *display: inline; only takes up enough space as the content needs and height/width have no effect. Display: block; can be adjusted with height/width and will take up as much space as the parent element will allow*
     
 3. What are the 4 areas of the box model?
+
    *Content, Padding, Border, Margin*
+   
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
    
    *cross-axis*
